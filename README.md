@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy Alan Reyna 👋</h1>
 </div>
 
-<img src="./banner.png" alt="Banner de Lucas Almada">
+<img src="./banner.jpg" alt="">
+
 
 [![GitHub followers](https://img.shields.io/github/followers/Lucas-almada015?style=social)](https://github.com/Lucas-almada015)
 
