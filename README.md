@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Lucas Almada 👋</h1>
+<h1 align="center">Hola, soy Alan Reyna 👋</h1>
 </div>
 
 <img src="./banner.png" alt="Banner de Lucas Almada">
@@ -11,8 +11,8 @@
 - 📱 Desarrollador de aplicaciones móviles.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 - 💼 Tengo experiencia en desarrollo de aplicaciones Android y en la implementación de bases de datos en Firebase.
-- 🌐 Puedes ver mi currículum [aquí](https://lucas-almada015.github.io/LucasAlmadaCV/).
-- 📫 Puedes contactarme en mi [perfil de LinkedIn](https://www.linkedin.com/in/lucas-almada-a2271a237/).
+- 🌐 Puedes ver mi currículum [aquí](https://github.com/).
+- 📫 Puedes contactarme en mi [perfil de LinkedIn]([https://www.linkedin.com/in/lucas-almada-a2271a237/](https://www.linkedin.com/in/alan-robledo-5a5188318/)).
 
 <br>
 
