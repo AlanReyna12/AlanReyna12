@@ -46,9 +46,3 @@
 </table>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="(https://www.linkedin.com/in/alan-robledo-5a5188318/)">
-</a>
-</p>
