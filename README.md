@@ -2,18 +2,14 @@
 <h1 align="center">Hola, soy Alan Reyna 👋</h1>
 </div>
 
-<img src="./banner.jpg" alt="">
-
-
-[![GitHub followers](https://img.shields.io/github/followers/Lucas-almada015?style=social)](https://github.com/Lucas-almada015)
 
 ## Sobre mí
 
 - 📱 Desarrollador de aplicaciones móviles.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 - 💼 Tengo experiencia en desarrollo de aplicaciones Android y en la implementación de bases de datos en Firebase.
-- 🌐 Puedes ver mi currículum [aquí](https://github.com/).
-- 📫 Puedes contactarme en mi [perfil de LinkedIn]([https://www.linkedin.com/in/lucas-almada-a2271a237/](https://www.linkedin.com/in/alan-robledo-5a5188318/)).
+- 🌐 Puedes ver mi currículum [aquí]([https://github.com/](https://github.com/AlanReyna12/AlanReyna.CV)).
+- 📫 Puedes contactarme en mi [perfil de LinkedIn](https://www.linkedin.com/in/alan-robledo-5a5188318/)
 
 <br>
 
@@ -53,8 +49,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Lucas-almada015">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucas-almada015&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucas-almada015&layout=compact&langs_count=8&theme=algolia"/>
+<a href="(https://www.linkedin.com/in/alan-robledo-5a5188318/)">
 </a>
 </p>
